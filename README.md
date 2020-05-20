@@ -8,4 +8,4 @@ As our batch is divided into  6-8 member groups,to get started with this organis
 after this creat a new repository at organisation home page or [click here](https://github.com/organizations/GUSuper60/repositories/new) the last character of this repository name should represent your group number i.e. **repository_name-group_number** like `Alex_08` here Alex is your repository name and last two digit represent your group number.
 so that it will be easier to understand!!
 
-now Fork, code commit, push and enjoy!!
+now Fork it, code, commit, push and enjoy!!
