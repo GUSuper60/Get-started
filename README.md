@@ -1,5 +1,5 @@
 # Get-started
-How to get started with GuSuper60 organisation if you are member of this organisation then.
+How to get started with **GuSuper60** organisation if you are member of this organisation then.
 
 Congrats to be selected as a member of **GuSuper60**. We are here to brush up or study **Data Structure and Algorithm** with our Mentor **Sachin sir**.
 
